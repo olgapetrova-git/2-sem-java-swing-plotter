@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"bestellung"},{"l":"io"},{"l":"kunde"},{"l":"model"},{"l":"testrahmen"}]
