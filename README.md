@@ -28,7 +28,7 @@ Studiengang Wirtschaftsinformatik B.Sc.
 
 2. Semester, April-August 2018.
  
-Swing-basierte Anwendung zum Zeichnen von Graphen mit Koordinatenpunkten. Verwenden von Java-Swing-Komponenten für Benutzeroberfläche, Java-Kollectionen (verknüpfte Liste), MVC- und Observer-Entwurfsmuster und ausführen einen Prozess in einem separaten Thread.  
+Swing-basierte Anwendung zum Zeichnen von Graphen mit Koordinatenpunkten. Verwenden von Java-Swing-Komponenten für Benutzeroberfläche, Java-Kollectionen (LinkedList), MVC- und Observer-Entwurfsmuster und ausführen einen Prozess in einem separaten Thread.  
 
 	Aufgabe:  
 	- Plotter Aufgabe - Swing Observer MVC.pdf  
